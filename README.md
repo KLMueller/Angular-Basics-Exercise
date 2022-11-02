@@ -1,3 +1,19 @@
+# Angular - The Basics - Exercises
+<ol>
+<li>
+Create nested components
+<li>
+Create complex structure components</li>
+<li>
+Use string interpolation to output content to the webpage</li>
+<li>
+Use string interpolation to output the values an object holds</li>
+<li>
+Use a ternary operator to output content dynamically</li>
+<li>Use property binding to disable an input element</li>
+<li>Blog Demo</li>
+</ol>
+
 # AngularApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.3.
